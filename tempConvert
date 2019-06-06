@@ -1,10 +1,3 @@
-'''
-Martin Skillings
-CSCI 2001
-Assignment #2
-'''
-
-#Write a program that converts Celsius to Fahrenheit
 
 continueLoop = 'f'
 
