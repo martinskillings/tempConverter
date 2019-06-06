@@ -1,10 +1,5 @@
-'''
-Martin Skillings
-CSCI 2001
-Assignment #2
-'''
 
-#Write a program that converts Celsius to Fahrenheit
+#Write a program that converts Celsius to Fahrenheit or Kelvin
 
 continueLoop = 'f'
 
@@ -36,7 +31,7 @@ while continueLoop == 'f':
 Python 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:14:34) [MSC v.1900 32 bit (Intel)] on win32
 Type "copyright", "credits" or "license()" for more information.
 >>> 
- RESTART: C:/Users/marti/AppData/Local/Programs/Python/Python36-32/Assignment #2.py 
+ RESTART: C:/Users/marti/AppData/Local/Programs/Python/Python36-32/tempConverter.py 
 Enter a degree in Celsius: 43
 43 Celsius is 109.40 Fahrenheit
 Enter f to continue in Fahrenheit, k to change to Kelvin, or q to quit: k
